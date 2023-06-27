@@ -1,0 +1,104 @@
+.heading{
+    margin-top: 30px;
+    margin-left: 40px;
+    float: left;
+}
+
+.text{
+    font-size: 70px;
+    color: brown;
+}
+
+.button{
+    float: right;
+    margin-top: 70px;
+    padding-right: 40px;
+
+
+}
+
+.btn{
+    background: transparent;
+    border-radius: 10px;
+    padding: 15px 25px;
+    border: 1px solid lightseagreen;
+    color: lightseagreen;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background: transparent;
+    border: 1px solid brown; 
+    color: brown;
+    transition: 0.3s;
+}
+.para{
+    clear: both;
+    padding-left: 40px;
+}
+
+.para p{
+    font-size: 20px;
+    color: grey;
+}
+
+hr{
+    width: 91%;
+    color: blue;
+    height: 1px;
+    background-color: lightseagreen;
+}
+
+
+/* Create About heading with paragraph */
+.header{
+    margin-top: 50px;
+    padding-left: 40px;   
+    width: 900px;
+    font-size: 20px;
+    
+}
+
+.header h1{
+    color: lightseagreen;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.paragraph .al{
+    line-height: 30px;
+}
+
+.paragraph .para6{
+    padding-bottom: 20px;
+}
+.paragraph .para6 a{
+    text-decoration: none;
+    color: lightskyblue;
+    transition: 0.2s;
+}
+
+.paragraph .para6 a:hover{
+    color: brown;
+}
+
+
+/* Create a footer in last bottom of about form */
+/* Create footer in website */
+.links{
+    text-align: center;
+    padding-bottom: 120px;
+    font-size: 17px;
+}
+
+.links a{
+    text-decoration: none;
+    transition: 0.2s;
+    color: skyblue;
+}
+
+.links a:hover{
+    color: brown;
+}

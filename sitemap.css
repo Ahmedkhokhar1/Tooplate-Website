@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+}
+body{
+    height: 2500px;
+}
+.container{
+    background: lightblue;
+    height: 140px;
+}
+
+.white{
+    background: whitesmoke;
+    height: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0.1px -2px 15px black;
+    margin: 0 40px;
+    text-align: center;
+    font-size: 25px;
+    color: grey;
+    padding-top: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.link{
+    color: royalblue;
+    font-size: 21px;
+    padding-left: 25%;
+    padding-top: 15px;
+    float: left;
+}
+
+.link p{
+    width: 400px;
+    margin-right: 25%;
+    font-weight: bold;
+    color: darkslategray;
+    float: right;
+}
+
+.whole-container{
+    background: whitesmoke;
+    position: absolute;
+    top: 125px;
+    left: 23px;
+    margin: auto;
+    /* height: 1800px; */
+    width: 1300px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 9px black;
+}
+
+.whole-container .pages{
+    background: lightgray;
+    height: 40px;
+    margin-top: 40px;
+    width: 1250px;
+    margin-left: 25px;
+    font-size: 20px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+
+.links{
+    padding-top: 20px;
+    padding-left: 24px;
+    margin-bottom: 10px;
+}
+.links a{
+    font-size: 18px;
+    color: royalblue;
+}
+.links .width{
+    width: 1246px;
+    height: 1px;
+    background-color: grey;
+    margin-bottom: 14px;
+}
+.whole-container .pagess{
+    background: lightgray;
+    height: 40px;
+    margin-top: 40px;
+    width: 1220px;
+    margin-left: 50px;
+    font-size: 20px;
+    padding: 8px 10px;
+    box-sizing: border-box;
+}
+
+.linkss{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.linkss .widths{
+    width: 1246px;
+    height: 1px;
+    background-color: grey;
+    margin-bottom: 14px;
+}
+
+.linkss a{
+    color: royalblue;
+    font-size: 19px;
+}
+
+.linkss a{
+    font-size: 19px;
+}
+
+.linkss .widthss{
+    width: 1246px;
+    height: 1px;
+    background-color: grey;
+    position: relative;
+}
+
+.widthss{
+    margin-bottom: 12px;
+}
+
+.last-center{
+    /* text-align: center; */
+    font-size: 20px;
+    position: absolute;
+    bottom: -1720px;
+    /* text-align: center; */
+    left: 200px;
+}
+
+.last-center a:hover{
+    color: grey;
+}
+
+.whole-container a:hover{
+    color: grey;
+}

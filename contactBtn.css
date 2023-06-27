@@ -1,0 +1,118 @@
+.heading{
+    margin-top: 30px;
+    margin-left: 40px;
+    float: left;
+}
+
+.text{
+    font-size: 70px;
+    color: brown;
+}
+
+.button{
+    float: right;
+    margin-top: 70px;
+    padding-right: 40px;
+
+
+}
+
+.btn{
+    background: transparent;
+    border-radius: 10px;
+    padding: 15px 25px;
+    border: 1px solid lightseagreen;
+    color: lightseagreen;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background: transparent;
+    border: 1px solid brown; 
+    color: brown;
+    transition: 0.3s;
+}
+.para{
+    clear: both;
+    padding-left: 40px;
+}
+
+.para p{
+    font-size: 20px;
+    color: grey;
+}
+
+hr{
+    width: 91%;
+    color: blue;
+    height: 1px;
+    background-color: lightseagreen;
+}
+/* Create a contact form in website */
+.contact{
+    padding-left: 60px;
+}
+
+.heading-paragraph{
+    width: 600px;
+    text-align: justify;
+}
+
+.heading-paragraph h1{
+    margin-top: 50px;
+    color: lightseagreen;
+    font-size: 45px;
+}
+
+.heading-paragraph {
+    font-size: 19px;
+    line-height: 30px;
+    margin-bottom: 60px;
+}
+.heading-paragraph .line a{
+    text-decoration: none;
+    color: lightseagreen;
+}
+.heading-paragraph .line a:hover{
+    color: brown;
+    transition: 0.5s;
+}
+
+.paper-Question h1{
+    color: slateblue;
+    margin-bottom: 60px;
+}
+
+.past .Ques-part{
+    font-weight: 600;
+    font-size: 20px;
+}
+.paper-Question .part1{
+    margin-top: -10px;
+    width: 900px;
+    font-size: 20px;
+}
+
+.paper-Question .part1 a{
+    color: slateblue;
+    text-decoration: none;
+}
+
+/* Create footer in bottom contact form */
+.links{
+    text-align: center;
+    padding-bottom: 120px;
+    font-size: 17px;
+}
+
+.links a{
+    text-decoration: none;
+    transition: 0.2s;
+    color: skyblue;
+}
+
+.links a:hover{
+    color: brown;
+}

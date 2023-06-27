@@ -1,0 +1,203 @@
+.heading{
+    margin-top: 30px;
+    margin-left: 40px;
+    float: left;
+}
+
+.text{
+    font-size: 70px;
+    color: brown;
+}
+
+.button{
+    float: right;
+    margin-top: 70px;
+    padding-right: 40px;
+
+
+}
+
+.btn{
+    background: transparent;
+    border-radius: 10px;
+    padding: 15px 25px;
+    border: 1px solid lightseagreen;
+    color: lightseagreen;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background: transparent;
+    border: 1px solid brown; 
+    color: brown;
+    transition: 0.3s;
+}
+.para{
+    clear: both;
+    padding-left: 40px;
+}
+
+.para p{
+    font-size: 20px;
+    color: grey;
+}
+
+hr{
+    width: 91%;
+    color: blue;
+    height: 1px;
+    background-color: lightseagreen;
+}
+
+/* Create content in website  */
+.heading1{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+.heading1 h1{
+    color: lightseagreen;
+}
+.image{
+    text-align: center;
+}
+
+/* Create text contenct in website  */
+.heading2{
+    width: 800px;
+    line-height: 30px;
+    padding-left: 23%;
+    font-size: 18px;
+}
+
+.heading2 h1{
+    color: lightseagreen;
+}
+
+.heading2 span{
+    font-weight: bold;
+}
+
+
+/* Create A 5 button in website */
+.btnn{
+    background: lightseagreen;
+    border-radius: 5px;
+    padding: 14px 26px;
+    margin-right: 20px;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+
+.bt{
+    margin-right: 20px;
+    background: saddlebrown;
+    border-radius: 5px;
+    padding: 14px 26px;
+    font-size: 14px;
+    color: white;
+    border: none;
+}
+
+.btt{
+    background: forestgreen;
+    border-radius: 5px;
+    padding: 14px 26px;
+    font-size: 14px;
+    color: white;
+    border: none;
+}
+
+.btn11{
+    margin-top: 15px;
+    background: forestgreen;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 14px 26px;
+    font-size: 14px;
+    color: white;
+    border: none;
+}
+.btn111{
+    background: darkgoldenrod;
+    border-radius: 5px;
+    padding: 14px 26px;
+    font-size: 14px;
+    color: white;
+    border: none;
+}
+
+.heading2 button{
+    cursor: pointer;
+}
+
+/* Create Other Templates */
+.other{
+    margin-top: 80px;
+}
+.other h1{
+    padding-left: 40px;
+    color: royalblue;
+}
+
+.header1{
+    width: 100%;
+    display: flex;
+}
+
+.header1 img{
+    padding-left: 60px;
+
+}
+
+.text-container{
+    padding-left: 10px;
+    float: left;
+}
+
+.text-container .anchor{
+    padding-left: 100px;
+}
+
+.text-container .anchor a{
+    text-decoration: none;
+    font-size: 20px;
+    color: royalblue;
+}
+
+.text-container .anchor a:hover{
+    text-decoration: underline;
+}
+
+.text-container p{
+    width: 300px;
+    line-height: 30px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.header2{
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+
+/* Create footer in website */
+.links{
+    text-align: center;
+    padding-bottom: 120px;
+    font-size: 17px;
+}
+
+.links a{
+    text-decoration: none;
+    transition: 0.2s;
+    color: skyblue;
+}
+
+.links a:hover{
+    color: brown;
+}
